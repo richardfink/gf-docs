@@ -72,7 +72,6 @@ There should not be 'stray' files in the repo, such as `.empty`
 - [ ] Test for all letter/diacritic combinations https://github.com/weiweihuanghuang/Work-Sans/pull/17#issuecomment-139910842
 
 
-
 # Further reading
 
 ### UFO
