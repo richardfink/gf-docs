@@ -79,3 +79,5 @@ There should not be 'stray' files in the repo, such as `.empty`
 
 The UFO format is documented at http://unifiedfontobject.org and developed on Github (https://github.com/unified-font-object/ufo-spec) and the ufo-spec mailing list (https://groups.google.com/forum/#!forum/ufo-spec)
 
+## Proposed Changes By Richard Fink
+
